@@ -1,0 +1,11 @@
+/Users/brandansayarath/Desktop/phonebook/bin/Debug/netcoreapp2.2/PhoneBook.deps.json
+/Users/brandansayarath/Desktop/phonebook/bin/Debug/netcoreapp2.2/PhoneBook.runtimeconfig.json
+/Users/brandansayarath/Desktop/phonebook/bin/Debug/netcoreapp2.2/PhoneBook.runtimeconfig.dev.json
+/Users/brandansayarath/Desktop/phonebook/bin/Debug/netcoreapp2.2/PhoneBook.dll
+/Users/brandansayarath/Desktop/phonebook/bin/Debug/netcoreapp2.2/PhoneBook.pdb
+/Users/brandansayarath/Desktop/phonebook/obj/Debug/netcoreapp2.2/PhoneBook.csprojAssemblyReference.cache
+/Users/brandansayarath/Desktop/phonebook/obj/Debug/netcoreapp2.2/PhoneBook.csproj.CoreCompileInputs.cache
+/Users/brandansayarath/Desktop/phonebook/obj/Debug/netcoreapp2.2/PhoneBook.AssemblyInfoInputs.cache
+/Users/brandansayarath/Desktop/phonebook/obj/Debug/netcoreapp2.2/PhoneBook.AssemblyInfo.cs
+/Users/brandansayarath/Desktop/phonebook/obj/Debug/netcoreapp2.2/PhoneBook.dll
+/Users/brandansayarath/Desktop/phonebook/obj/Debug/netcoreapp2.2/PhoneBook.pdb
